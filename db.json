@@ -1,0 +1,124 @@
+{
+ "products" : 
+ [{
+  "id": 1,
+  "judul": "Veal - Loin",
+  "harga": "$8.69"
+}, {
+  "id": 2,
+  "judul": "Sauce - Caesar Dressing",
+  "harga": "$6.30"
+}, {
+  "id": 3,
+  "judul": "Hersey Shakes",
+  "harga": "$0.78"
+}, {
+  "id": 4,
+  "judul": "Ecolab - Mikroklene 4/4 L",
+  "harga": "$9.06"
+}, {
+  "id": 5,
+  "judul": "Onion - Dried",
+  "harga": "$5.21"
+}, {
+  "id": 6,
+  "judul": "Dc Hikiage Hira Huba",
+  "harga": "$9.01"
+}, {
+  "id": 7,
+  "judul": "Carrots - Jumbo",
+  "harga": "$2.72"
+}, {
+  "id": 8,
+  "judul": "Wine - Magnotta, Merlot Sr Vqa",
+  "harga": "$8.34"
+}, {
+  "id": 9,
+  "judul": "Lettuce - Romaine",
+  "harga": "$9.09"
+}, {
+  "id": 10,
+  "judul": "Pork Loin Cutlets",
+  "harga": "$3.90"
+}, {
+  "id": 11,
+  "judul": "Oven Mitt - 13 Inch",
+  "harga": "$9.41"
+}, {
+  "id": 12,
+  "judul": "Beef - Tenderlion, Center Cut",
+  "harga": "$7.37"
+}, {
+  "id": 13,
+  "judul": "Octopus",
+  "harga": "$0.50"
+}, {
+  "id": 14,
+  "judul": "Pork - Smoked Kassler",
+  "harga": "$9.77"
+}, {
+  "id": 15,
+  "judul": "Clam Nectar",
+  "harga": "$1.09"
+}, {
+  "id": 16,
+  "judul": "Towel - Roll White",
+  "harga": "$1.63"
+}, {
+  "id": 17,
+  "judul": "Crackers - Graham",
+  "harga": "$7.02"
+}, {
+  "id": 18,
+  "judul": "Bread - Roll, Italian",
+  "harga": "$0.58"
+}, {
+  "id": 19,
+  "judul": "Cheese - Havarti, Salsa",
+  "harga": "$5.16"
+}, {
+  "id": 20,
+  "judul": "Hand Towel",
+  "harga": "$8.18"
+}, {
+  "id": 21,
+  "judul": "Yeast Dry - Fermipan",
+  "harga": "$1.64"
+}, {
+  "id": 22,
+  "judul": "Juice - Clam, 46 Oz",
+  "harga": "$0.94"
+}, {
+  "id": 23,
+  "judul": "Wine - Chenin Blanc K.w.v.",
+  "harga": "$9.32"
+}, {
+  "id": 24,
+  "judul": "Chicken - Livers",
+  "harga": "$7.05"
+}, {
+  "id": 25,
+  "judul": "Lamb - Whole Head Off",
+  "harga": "$9.40"
+}, {
+  "id": 26,
+  "judul": "Wine - Domaine Boyar Royal",
+  "harga": "$4.32"
+}, {
+  "id": 27,
+  "judul": "Ginsing - Fresh",
+  "harga": "$5.49"
+}, {
+  "id": 28,
+  "judul": "Carbonated Water - Wildberry",
+  "harga": "$2.26"
+}, {
+  "id": 29,
+  "judul": "Lemonade - Island Tea, 591 Ml",
+  "harga": "$7.13"
+}, {
+  "id": 30,
+  "judul": "Hold Up Tool Storage Rack",
+  "harga": "$1.09"
+}]
+}
